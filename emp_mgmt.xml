@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="emp_mgmt.xsl"?>
+
+
+
+	 <company>
+
+    <employee>
+		<ID>A0001</ID>
+		<NAME>Bob</NAME>
+		<AGE>34</AGE>
+		<SALARY>62000</SALARY>
+        <EMAIL>bob123@gmail.com</EMAIL>
+		<MobNum>9656680259</MobNum>
+		<Designation>Sr. Accountant</Designation>
+        <Promotion>Developer</Promotion>
+    </employee>
+    
+    <employee>
+		<ID>A0002</ID>
+		<NAME>Ravi</NAME>
+		<AGE>24</AGE>
+		<SALARY>52500</SALARY>
+        <EMAIL>ravi123@gmail.com</EMAIL>
+		<MobNum>9914029874</MobNum>
+		<Designation>Jr. Accountant</Designation>
+        <Promotion>Developer</Promotion>
+    </employee>
+	
+    <employee>
+		<ID>A0003</ID>
+		<NAME>John</NAME>
+		<AGE>23</AGE>
+		<SALARY>50000</SALARY>
+        <EMAIL>john123@gmail.com</EMAIL>
+		<MobNum>9614257860</MobNum>
+		<Designation>Peon</Designation>
+        <Promotion>Developer</Promotion>
+    </employee>
+	
+    <employee>
+		<ID>A0004</ID>
+		<NAME>Aslam</NAME>
+		<AGE>40</AGE>
+		<SALARY>100000</SALARY>
+        <EMAIL>aslam123@gmail.com</EMAIL>
+		<MobNum>9395410683</MobNum>
+		<Designation>Asst. Manager</Designation>
+        <Promotion> Team Leader </Promotion>
+    </employee>
+
+    <employee>
+		<ID>A0005</ID>
+		<NAME>Abraham</NAME>
+		<AGE>50</AGE>
+		<SALARY>110000</SALARY>
+        <EMAIL>abraham123@gmail.com</EMAIL>
+		<MobNum>9395530683</MobNum>
+		<Designation>Production Manager</Designation>
+        <Promotion> Associate Project Manager</Promotion>
+    </employee>
+
+    <employee>
+		<ID>A0007</ID>
+		<NAME>Rucha</NAME>
+		<AGE>29</AGE>
+		<SALARY>62000</SALARY>
+        <EMAIL>rucha123@gmail.com</EMAIL>
+		<MobNum>9395442683</MobNum>
+		<Designation>Sr. Cashier</Designation>
+        <Promotion>Developer</Promotion>
+    </employee>
+
+    <employee>
+		<ID>A0008</ID>
+		<NAME>Geeta</NAME>
+		<AGE>50</AGE>
+		<SALARY>110000</SALARY>
+        <EMAIL>geeta123@gmail.com</EMAIL>
+		<MobNum>9395410420</MobNum>
+		<Designation>Asst. Manager</Designation>
+        <Promotion> Associate Project Manager</Promotion>
+    </employee>
+
+
+    </company>
